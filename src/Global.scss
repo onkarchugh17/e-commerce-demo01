@@ -1,0 +1,26 @@
+.global-dark {
+    background-color: black !important;
+    div,
+    header,
+    main,
+    footer,
+    select,
+    input,
+    button {
+        background-color: black !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    a,
+    option,
+    label,
+    span,
+    button {
+        color: white !important;
+    }
+}
